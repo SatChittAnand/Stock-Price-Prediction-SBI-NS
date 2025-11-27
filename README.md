@@ -97,5 +97,3 @@ pip install yfinance pandas matplotlib scikit-learn tensorflow
 This project is open-source under the MIT License.
 
 ---
-
-Would you like me to make this README **more formal (academic-style)** with equations and methodology, or **developer-friendly** with quick-start instructions and code snippets?
